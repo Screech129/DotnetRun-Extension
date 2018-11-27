@@ -3,9 +3,6 @@
 Allows you to assign dotnet run to a keyboard shortcut in VS Code.
 
 Assign the keyboard shortcut through VS Code by searching for "Dotnet Run" in keyboard shortcuts.
-1.0.0
-
-Assign the keyboard shortcut through VS Code by searching for "Dotnet Run" in keyboard shortcuts.
 
 
 ### 1.0.0
