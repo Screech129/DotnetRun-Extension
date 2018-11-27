@@ -1,8 +1,9 @@
 {
-    "name": "test",
-    "displayName": "Test",
-    "description": "test",
-    "version": "0.0.1",
+    "name": "dotnet-run",
+    "displayName": "Dotnet Run",
+    "description": "Adds ability to use dotnet run from keyboard shortcut",
+    "publisher": "Screech129",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.29.0"
     },
@@ -12,6 +13,7 @@
     "activationEvents": [
         "onCommand:screech129.dotNetRun"
     ],
+    "repository": {"url":"https://github.com/Screech129/DotnetRun-Extension/"},
     "main": "./out/extension",
     "contributes": {
         "commands": [
